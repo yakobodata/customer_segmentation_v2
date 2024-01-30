@@ -20,7 +20,7 @@ The main aim of the business is to maximize profits and lower its costs . Hypoth
 ### Key Features
 
 ### Data Generation
-Our project begins with a comprehensive data generation process, where we model data tables relevant to the financial services domain. We meticulously ensure Atomicity , Consistency , Isolation ,Durability in the generation of this data.
+Our project begins with a comprehensive data generation process,the data is essentially mock data because its hard to get financial services data , we model data tables relevant to the financial services domain. We meticulously ensure Atomicity , Consistency , Isolation ,Durability in the generation of this data.
 
 ### Client Segmentation
 We avail data that will enable the team to categorize clients based on various attributes such as demographics, transaction history, and behavior patterns. This segmentation enables the marketing team to tailor their strategies for specific client groups, ensuring more targeted and personalized campaigns.
