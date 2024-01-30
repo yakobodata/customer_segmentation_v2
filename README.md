@@ -18,12 +18,18 @@ The main aim of the business is to maximize profits and lower its costs . Hypoth
 - Can we gauge preferences for digital banking services versus traditional in-person interactions.
 
 ### Key Features
+- Data Modelling : Utilized an online tool called "draw.io"
+- Data Generation : Utilized the "Faker" python Library to generate mock data because financial services data is not readily available.
+- Data Collection: Utilized MYSQL database as a  data sources to gather information about clients.
+- Data Preparation: Cleaned, transformed, and enriched the data to ensure its accuracy and usefulness.
+- BigQuery Integration: Implemented a seamless integration with Google BigQuery for efficient storage and retrieval of relevant data.
 
-### Data Generation
-Our project begins with a comprehensive data generation process,the data is essentially mock data because its hard to get financial services data , we model data tables relevant to the financial services domain. We meticulously ensure Atomicity , Consistency , Isolation ,Durability in the generation of this data.
-
-### Client Segmentation
-We avail data that will enable the team to categorize clients based on various attributes such as demographics, transaction history, and behavior patterns. This segmentation enables the marketing team to tailor their strategies for specific client groups, ensuring more targeted and personalized campaigns.
+### Technologies Used
+Data Generation: Python
+Data Ingestion: Python, API
+Data Processing: Pandas, NumPy
+Database: MYSQL Database
+Data lake : Google BigQery
 
 ### Get Started 
 To dive into the project, follow these steps:
