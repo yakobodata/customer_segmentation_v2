@@ -25,11 +25,11 @@ The main aim of the business is to maximize profits and lower its costs . Hypoth
 - BigQuery Integration: Implemented a seamless integration with Google BigQuery for efficient storage and retrieval of relevant data.
 
 ### Technologies Used
-Data Generation: Python
-Data Ingestion: Python, API
-Data Processing: Pandas, NumPy
-Database: MYSQL Database
-Data lake : Google BigQery
+- Data Generation: Python
+- Data Ingestion: Python, API
+- Data Processing: Pandas, NumPy
+- Database: MYSQL Database
+- Data lake : Google BigQery
 
 ### Get Started 
 To dive into the project, follow these steps:
